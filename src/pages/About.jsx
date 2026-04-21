@@ -4,10 +4,10 @@ function About() {
   return (
     <section className="space-y-10 rounded-3xl border border-slate-800 bg-slate-950/80 p-10 shadow-glow">
       <div className="space-y-4">
-        <p className="text-sm uppercase tracking-[0.24em] text-brand-300">About Vajraa Intelligence</p>
+        <p className="text-sm uppercase tracking-[0.24em] text-brand-300">About Varaa Intelligence</p>
         <h1 className="text-4xl font-semibold text-white">Data-driven outbound and lead generation for US SaaS.</h1>
         <p className="text-slate-300 leading-8">
-          Vajraa Intelligence is a data-driven outbound and lead generation agency focused on helping US SaaS companies build a consistent pipeline of qualified sales calls.
+          Varaa Intelligence is a data-driven outbound and lead generation agency focused on helping US SaaS companies build a consistent pipeline of qualified sales calls.
         </p>
         <p className="text-slate-300 leading-8">We don’t believe in spam or mass outreach.</p>
         <p className="text-slate-300 leading-8">

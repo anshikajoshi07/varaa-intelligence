@@ -58,7 +58,7 @@ function Login() {
     <section className="mx-auto max-w-xl rounded-3xl border border-slate-800 bg-slate-950/80 p-10 shadow-glow">
       <p className="text-sm uppercase tracking-[0.24em] text-brand-300">Login</p>
       <h1 className="mt-4 text-4xl font-semibold text-white">Access your dashboard.</h1>
-      <p className="mt-3 text-slate-400">Sign in using your Vajraa Intelligence account.</p>
+      <p className="mt-3 text-slate-400">Sign in using your Varaa Intelligence account.</p>
 
       <form onSubmit={handleSubmit} className="mt-10 space-y-6">
         <div>

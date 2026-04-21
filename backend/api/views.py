@@ -32,7 +32,7 @@ def get_profile_for_user(user):
 
 
 def health(request):
-    return JsonResponse({'status': 'ok', 'service': 'Vajraa Intelligence backend'})
+    return JsonResponse({'status': 'ok', 'service': 'Varaa Intelligence backend'})
 
 
 @csrf_exempt
