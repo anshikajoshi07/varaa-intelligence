@@ -15,7 +15,7 @@ function Navbar() {
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
         <Link to="/" className="flex items-center gap-3 text-lg font-semibold text-white">
           <img src={logo} alt="Vajraa Intelligence logo" className="h-10 w-10 rounded-2xl border border-slate-800 bg-slate-950 p-1 shadow-glow" />
-          Varaa Intelligence
+          Vajraa Intelligence
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex">
