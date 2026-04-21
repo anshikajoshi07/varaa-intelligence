@@ -4,7 +4,7 @@ import { Settings, Save } from 'lucide-react';
 
 function AdminSettings() {
   const [settings, setSettings] = useState({
-    siteName: 'Varaa Intelligence',
+    siteName: 'Vajraa Intelligence',
     siteEmail: 'admin@varaa.ai',
     sitePhone: '+91 XXXXXXXXXX',
     timezone: 'Asia/Kolkata',
